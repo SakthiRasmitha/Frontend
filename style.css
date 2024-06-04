@@ -1,0 +1,54 @@
+
+    body{
+
+        font-family: "Young Serif", serif;
+    }
+    .d1{
+        color: white;
+        background-color: black;
+        padding: 20px;
+    }
+    .h1{
+        font-size: 40px;
+    }
+    .d1_contact{
+        background-color: orange;
+        color: white;
+        text-decoration: none;
+    }
+    
+    .container{
+        padding: 50px;
+    }
+    .section_two{
+        background-color: violet;
+        border-radius: 10px;
+        display: inline-block;
+        width: 250px;
+        height: 250px;
+        vertical-align: top;
+        
+    }
+    li{
+        list-style: none;
+    }
+    
+    .section_three{
+        background-color: orange;
+        display: inline-block;
+        margin-bottom: 20px;
+        width: 750px;
+        height: 250px;
+       
+    }
+    .section_three{
+        border-radius:10px ;
+    }
+    .info{
+        
+        color: white;
+        background-color: black;
+    }
+    
+
+

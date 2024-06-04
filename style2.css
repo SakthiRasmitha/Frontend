@@ -1,0 +1,18 @@
+.container{
+    padding: 50px;
+}
+.personal{
+    color: black;
+    background-color: greenyellow;
+    padding: 20px;
+}
+.details{
+    color: black;
+    background-color: blueviolet;
+}
+
+.info2{
+        
+    color: white;
+    background-color: black;
+}
